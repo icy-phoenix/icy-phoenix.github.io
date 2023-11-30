@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Bienvenue à la guilde!"
 date:   2023-11-30 12:45:11 +0000
 categories: jekyll update
 ---
