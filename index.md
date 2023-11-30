@@ -1,3 +1,10 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+---
+
 # Bienvenue sur le site de la guilde des mages et magiciens
 
 ## 1. Les armes et batons magique : les dernière nouveautées
