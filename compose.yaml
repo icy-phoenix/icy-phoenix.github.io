@@ -1,0 +1,9 @@
+services:
+  jekyll:
+    image: bretfisher/jekyll-serve
+    environment:
+      - PAGES_REPO_NWO=icy-phoenix/icy-phoenix.github.io
+    volumes:
+      - ./docs:/site
+    ports:
+      - '4000:4000'
