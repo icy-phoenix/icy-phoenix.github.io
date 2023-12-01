@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-01T13:11:37.827Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="OX_XaHZEvAuL_RepFxYC" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-01T13:47:25.135Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="gVA7kZ9Noj8LYPdWbCca" version="22.1.5" type="github">
   <diagram name="Page-1" id="pmQrh8WyugEyjfTZw542">
     <mxGraphModel dx="1492" dy="831" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -72,6 +72,9 @@
         </mxCell>
         <mxCell id="fqTTrqfbZ0EkqAj8iUrX-23" value="publish new site version" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="708" y="359" width="85" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="ECEo4WKRQnGw2qY5rWRb-1" value="Jekyll : transform markdown filest to html files" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="554" y="267" width="277" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
