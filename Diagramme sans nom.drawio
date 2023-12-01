@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-01T10:30:07.546Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="99bgzbN4lt_qRQ94DnEq" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-01T10:44:10.030Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="eI_E3ca6Sv4A3pOSet9p" version="22.1.5" type="github">
   <diagram name="Page-1" id="pmQrh8WyugEyjfTZw542">
     <mxGraphModel dx="1243" dy="693" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="fqTTrqfbZ0EkqAj8iUrX-7" value="Lecteur" style="image;html=1;image=img/lib/clip_art/computers/Laptop_128x128.png" vertex="1" parent="1">
           <mxGeometry x="1055" y="352.5" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fqTTrqfbZ0EkqAj8iUrX-10" value="Github repository&lt;br&gt;( Ice-Foenix/Ice-Foenix.github.io)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fqTTrqfbZ0EkqAj8iUrX-10" value="Github repository&lt;br&gt;( icy-phoenix/icy-phoenix.github.io)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="213" y="308" width="214" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fqTTrqfbZ0EkqAj8iUrX-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fqTTrqfbZ0EkqAj8iUrX-6" target="fqTTrqfbZ0EkqAj8iUrX-1">
@@ -52,8 +52,8 @@
             <mxPoint x="992" y="173" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fqTTrqfbZ0EkqAj8iUrX-17" value="https://ice-foenix.github.io/j" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="846" y="352.5" width="172" height="30" as="geometry" />
+        <mxCell id="fqTTrqfbZ0EkqAj8iUrX-17" value="https://icy-phoenix.github.io/j" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="846" y="352.5" width="189" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
