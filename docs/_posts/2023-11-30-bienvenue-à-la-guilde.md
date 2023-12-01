@@ -3,7 +3,8 @@ layout: post
 title:  "Bienvenue à la guilde!"
 author: Drogon
 date:   2023-11-30 12:45:11 +0000
-categories: jekyll update
+categories: blog
+tag: Magie
 ---
 
 # Bienvenue sur le site de la guilde des mages et magiciens
