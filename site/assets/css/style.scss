@@ -5,10 +5,12 @@
 @import "{{ site.theme }}";
 
 nav#menu {
-    margin: auto;
+    display: block;
+    width: 20%;
+    background-color: #333;
+    float: left;
 
     ul {
-        display: inline-flex;
         margin-block-start: 1em;
         margin-block-end: 1em;
         margin-inline-start: 0px;
@@ -18,10 +20,8 @@ nav#menu {
         margin: 0;
         padding: 0;
         overflow: hidden;
-        background-color: #333;
 
         li {
-            float: left;
             display: list-item;
             text-align: -webkit-match-parent;
         

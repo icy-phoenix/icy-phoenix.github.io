@@ -26,10 +26,11 @@ description: >- # this means to ignore newlines until "baseurl:"
   Cordialement l'équipe administrative de la guilde.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: me
+github_username:  icy-phoenix
 show_downloads: false
 # Build settings
+# Supported themes : https://pages.github.com/themes/
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-remote-theme 
