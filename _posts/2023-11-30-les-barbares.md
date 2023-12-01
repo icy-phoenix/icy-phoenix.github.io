@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Toute l'enquête"
+title:  "Les barbares, héros ou zéros"
 date:   2023-11-30 12:45:11 +0000
 categories: jekyll update
 ---
