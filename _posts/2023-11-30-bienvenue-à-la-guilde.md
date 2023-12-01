@@ -9,7 +9,7 @@ categories: jekyll update
 
 ## 1. Les armes et batons magique : les dernière nouveautées
 
-#### [consulter le catalogue](2023-11-29-le-catalogue.html)
+#### [consulter le catalogue](le-catalogue.html)
 
 ## 2. Comment apprivoiser un dragon en 10 leçons
 
