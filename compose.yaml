@@ -4,6 +4,6 @@ services:
     environment:
       - PAGES_REPO_NWO=icy-phoenix/icy-phoenix.github.io
     volumes:
-      - ./site:/site
+      - ./docs:/site
     ports:
       - '4000:4000'
