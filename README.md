@@ -8,6 +8,7 @@
 - Environnement de développement (en ligne): [Github codespaces](https://github.com/features/codespaces)
 - Automatisation de la publication du site sur un serveur web : [Github Actions](https://github.com/features/actions)
 - Hébergement du site web : [Github Pages](https://pages.github.com/)
+- ou trouver les emojis : [ici](https://gist.github.com/rxaviers/7360908)
 
 ## Commandes principales
 

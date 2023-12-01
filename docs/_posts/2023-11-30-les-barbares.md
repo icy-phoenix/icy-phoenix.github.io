@@ -7,4 +7,4 @@ categories: jekyll update
 
 ## Les barbares du royaume du Krent ne sont-t-il pas un petit peu idiots ? *Voici la question que se posent quelques personnes aujourd'hui.*
 
-post de test :+1: https://gist.github.com/rxaviers/7360908
+post de test :+1:
