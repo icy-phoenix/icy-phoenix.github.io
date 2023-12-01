@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Les barbares, héros ou zéros"
+author: Drogon
 date:   2023-11-30 12:45:11 +0000
 categories: jekyll update
 ---
