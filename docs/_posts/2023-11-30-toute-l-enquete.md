@@ -11,4 +11,4 @@ tag: Magie
 
 ...marquer ici la fausse enquête sur l'archimage Tresen...
 
-![image Tresen](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWrRnueniH0EaneeSqXKO9AdyoE6nOctLPAw&usqp=CAU)
+![image Tresen](2wCEAAoHCBUVFBgVFRUZGRgYGxsbGxobGxocGxobGhsdIR8hGhsbIS0kHR0qHyIbJjclKi4xNDQ0GyM6PzoyPi0zNDMBCwsLEA8QHRISHzMrIyozMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzM)
